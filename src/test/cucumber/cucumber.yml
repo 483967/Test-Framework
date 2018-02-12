@@ -1,0 +1,1 @@
+ben_test: -f pretty --format xml --out=ben_test_results -t @ben ~@manual
